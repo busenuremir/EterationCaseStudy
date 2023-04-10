@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<launch>
+	<!-- Publisher Node -->
+	<node pkg="composiv_tryouts" type="composiv_talker.py" name="talker"/>
+	<!-- Subscriber Node -->
+	<node pkg="composiv_tryouts" type="composiv_listener.py" name="listener"/>
+	<!-- Publisher Unit Test -->
+	<test test-name="test_talker" pkg="composiv_tryouts" type="test_talker.py" />
+</launch>

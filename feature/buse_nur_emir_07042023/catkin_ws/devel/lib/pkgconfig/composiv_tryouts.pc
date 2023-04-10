@@ -1,0 +1,8 @@
+prefix=/home/buse/feature/buse_nur_emir_07042023/catkin_ws/devel
+
+Name: composiv_tryouts
+Description: Description of composiv_tryouts
+Version: 0.0.0
+Cflags: -I/home/buse/feature/buse_nur_emir_07042023/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

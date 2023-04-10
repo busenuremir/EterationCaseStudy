@@ -1,0 +1,2 @@
+composiv_tryouts
+-DCATKIN_DEVEL_PREFIX=/home/buse/feature/buse_nur_emir_07042023/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/buse/feature/buse_nur_emir_07042023/catkin_ws/install -G Unix Makefiles
